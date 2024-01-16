@@ -1,4 +1,4 @@
-# Pico Player
+# Aquisition System of reading temp and humidity in the air with wifi client
 
 ## Prerequest
 
