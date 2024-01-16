@@ -3,7 +3,7 @@
 ## Prerequest
 
 * Docker
-* Visual Studi Code
+* Visual Studio Code
 * Devcontainer CLI
 
 ## Usage
